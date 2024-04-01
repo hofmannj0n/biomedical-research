@@ -1,0 +1,1 @@
+machine learning and computer vision models to explore statistical analysis of medical datasets to predict factors such as post-operation mortality and total icu stay, as well as utilizing deep learning to perform CT segmentation from MRI scans.
