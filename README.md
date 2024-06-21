@@ -5,7 +5,7 @@ This repository contains code and resources related to my research in the field 
 ## Projects
 
 ### Inspire Dataset Analysis
-In the "inspire" folder, you'll find links to my research using the Inspire hospital dataset. I utilized machine learning techniques, including logistic regression, to predict whether breast cancer patients would pass away within 30 days of their operation. `inspire.ipynb` is the notebook used in our research.
+In the "inspire" folder, you'll find links to my research using the Inspire hospital dataset. I utilized machine learning techniques, including logistic regression, to predict whether breast cancer patients would pass away within 30 days of their operation. `inspire.ipynb` is the notebook used in my research for post-operative complications, all data related to cardiac patients is located in `cardiac outcomes`
 
 - [Link to Inspire Dataset](https://physionet.org/content/inspire/1.2/)
 
