@@ -1,0 +1,128 @@
+,ICD10 Code,Description,Type of Surgery,Body Part,Index
+18,009T0,"Drainage of Spinal Meninges, Open Approach
+Drainage of Spinal Meninges with Drainage Device, Open Approach
+Drainage of Spinal Meninges, Open Approach, Diagnostic",General Surgery,General,13
+38,03VG3,"Restriction of Intracranial Artery with Bioactive Intraluminal Device, Percutaneous Approach
+Restriction of Intracranial Artery with Extraluminal Device, Percutaneous Approach
+Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Approach
+Restriction of Intracranial Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach
+Restriction of Intracranial Artery, Percutaneous Approach",General Surgery,General,13
+56,00QT0,"Repair Spinal Meninges, Open Approach",General Surgery,General,13
+65,00B00,"Excision of Brain, Open Approach, Diagnostic
+Excision of Brain, Open Approach",Brain Surgery,Neurological,2
+78,00BT0,"Excision of Spinal Meninges, Open Approach, Diagnostic
+Excision of Spinal Meninges, Open Approach",General Surgery,General,13
+82,00940,"Drainage of Intracranial Subdural Space, Open Approach, Diagnostic
+Drainage of Intracranial Subdural Space, Open Approach
+Drainage of Intracranial Subdural Space with Drainage Device, Open Approach",General Surgery,General,13
+187,031H0,"Bypass Right Common Carotid Artery to Intracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Common Carotid Artery to Right Extracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Common Carotid Artery to Left Extracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Common Carotid Artery to Upper Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Common Carotid Artery to Intracranial Artery with Autologous Arterial Tissue, Open Approach",Valve Replacement,Cardiac,1
+190,00J00,"Inspection of Brain, Open Approach",Brain Surgery,Neurological,2
+201,00900,"Drainage of Brain with Drainage Device, Open Approach
+Drainage of Brain, Open Approach, Diagnostic
+Drainage of Brain, Open Approach",Brain Surgery,Neurological,2
+301,03LG0,"Occlusion of Intracranial Artery with Bioactive Intraluminal Device, Open Approach
+Occlusion of Intracranial Artery with Extraluminal Device, Open Approach
+Occlusion of Intracranial Artery with Intraluminal Device, Open Approach
+Occlusion of Intracranial Artery, Open Approach",General Surgery,General,13
+303,01N50,"Release Median Nerve, Open Approach",General Surgery,General,13
+318,01Q50,"Repair Median Nerve, Open Approach",General Surgery,General,13
+328,018L4,"Division of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",General Surgery,General,13
+363,03LG3,"Occlusion of Intracranial Artery with Bioactive Intraluminal Device, Percutaneous Approach
+Occlusion of Intracranial Artery with Extraluminal Device, Percutaneous Approach
+Occlusion of Intracranial Artery with Intraluminal Device, Percutaneous Approach
+Occlusion of Intracranial Artery, Percutaneous Approach",General Surgery,General,13
+407,031J0,"Bypass Left Common Carotid Artery to Left Extracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Left Common Carotid Artery to Upper Artery with Autologous Venous Tissue, Open Approach
+Bypass Left Common Carotid Artery to Intracranial Artery with Autologous Arterial Tissue, Open Approach
+Bypass Left Common Carotid Artery to Right Extracranial Artery with Autologous Arterial Tissue, Open Approach
+Bypass Left Common Carotid Artery to Left Extracranial Artery with Autologous Arterial Tissue, Open Approach",Valve Replacement,Cardiac,1
+468,001U0,"Bypass Spinal Canal to Atrium with Autologous Tissue Substitute, Open Approach
+Bypass Spinal Canal to Peritoneal Cavity with Autologous Tissue Substitute, Open Approach
+Bypass Spinal Canal to Urinary Tract with Autologous Tissue Substitute, Open Approach
+Bypass Spinal Canal to Fallopian Tube with Autologous Tissue Substitute, Open Approach
+Bypass Spinal Canal to Atrium with Synthetic Substitute, Open Approach",Valve Replacement,Cardiac,1
+570,03VG0,"Restriction of Intracranial Artery with Bioactive Intraluminal Device, Open Approach
+Restriction of Intracranial Artery with Extraluminal Device, Open Approach
+Restriction of Intracranial Artery with Intraluminal Device, Open Approach
+Restriction of Intracranial Artery with Intraluminal Device, Flow Diverter, Open Approach
+Restriction of Intracranial Artery, Open Approach",General Surgery,General,13
+578,00Q00,"Repair Brain, Open Approach",Brain Surgery,Neurological,2
+615,00QF0,"Repair Olfactory Nerve, Open Approach",General Surgery,General,13
+632,00NT0,"Release Spinal Meninges, Open Approach",General Surgery,General,13
+689,01B50,"Excision of Median Nerve, Open Approach, Diagnostic
+Excision of Median Nerve, Open Approach",General Surgery,General,13
+705,01D50,"Extraction of Median Nerve, Open Approach",General Surgery,General,13
+709,01NG0,"Release Tibial Nerve, Open Approach",General Surgery,General,13
+725,00NF0,"Release Olfactory Nerve, Open Approach",General Surgery,General,13
+783,00BF0,"Excision of Olfactory Nerve, Open Approach, Diagnostic
+Excision of Olfactory Nerve, Open Approach",General Surgery,General,13
+864,0RH00,"Insertion of Infusion Device into Occipital-cervical Joint, Open Approach
+Insertion of Internal Fixation Device into Occipital-cervical Joint, Open Approach
+Insertion of Spacer into Occipital-cervical Joint, Open Approach
+Insertion of Interspinous Process Spinal Stabilization Device into Occipital-cervical Joint, Open Approach
+Insertion of Pedicle-Based Spinal Stabilization Device into Occipital-cervical Joint, Open Approach",Orthopedic Surgery,Orthopedic,5
+899,00UF0,"Supplement Olfactory Nerve with Autologous Tissue Substitute, Open Approach
+Supplement Olfactory Nerve with Synthetic Substitute, Open Approach
+Supplement Olfactory Nerve with Nonautologous Tissue Substitute, Open Approach",General Surgery,General,13
+1002,00DF0,"Extraction of Olfactory Nerve, Open Approach",General Surgery,General,13
+1021,00BF4,"Excision of Olfactory Nerve, Percutaneous Endoscopic Approach, Diagnostic
+Excision of Olfactory Nerve, Percutaneous Endoscopic Approach",General Surgery,General,13
+1022,00SF0,"Reposition Olfactory Nerve, Open Approach",General Surgery,General,13
+1234,01R50,"Replacement of Median Nerve with Autologous Tissue Substitute, Open Approach
+Replacement of Median Nerve with Synthetic Substitute, Open Approach
+Replacement of Median Nerve with Nonautologous Tissue Substitute, Open Approach",General Surgery,General,13
+1420,00XF0,"Transfer Olfactory Nerve to Trigeminal Nerve, Open Approach
+Transfer Olfactory Nerve to Abducens Nerve, Open Approach
+Transfer Olfactory Nerve to Facial Nerve, Open Approach
+Transfer Olfactory Nerve to Acoustic Nerve, Open Approach
+Transfer Olfactory Nerve to Glossopharyngeal Nerve, Open Approach",General Surgery,General,13
+1561,01BG0,"Excision of Tibial Nerve, Open Approach, Diagnostic
+Excision of Tibial Nerve, Open Approach",General Surgery,General,13
+1673,00P64,"Removal of Drainage Device from Cerebral Ventricle, Percutaneous Endoscopic Approach
+Removal of Monitoring Device from Cerebral Ventricle, Percutaneous Endoscopic Approach
+Removal of Infusion Device from Cerebral Ventricle, Percutaneous Endoscopic Approach
+Removal of Neurostimulator Lead from Cerebral Ventricle, Percutaneous Endoscopic Approach
+Removal of Other Device from Cerebral Ventricle, Percutaneous Endoscopic Approach",Brain Surgery,Neurological,2
+1906,00BT4,"Excision of Spinal Meninges, Percutaneous Endoscopic Approach, Diagnostic
+Excision of Spinal Meninges, Percutaneous Endoscopic Approach",General Surgery,General,13
+1923,0NH00,"Insertion of Infusion Device into Skull, Open Approach
+Insertion of Internal Fixation Device into Skull, Open Approach
+Insertion of External Fixation Device into Skull, Open Approach
+Insertion of Bone Growth Stimulator into Skull, Open Approach
+Insertion of Neurostimulator Generator into Skull, Open Approach",Brain Surgery,Neurological,2
+1931,00P60,"Removal of Drainage Device from Cerebral Ventricle, Open Approach
+Removal of Infusion Device from Cerebral Ventricle, Open Approach
+Removal of Synthetic Substitute from Cerebral Ventricle, Open Approach
+Removal of Neurostimulator Lead from Cerebral Ventricle, Open Approach
+Removal of Other Device from Cerebral Ventricle, Open Approach",Brain Surgery,Neurological,2
+1976,01850,"Division of Median Nerve, Open Approach",General Surgery,General,13
+2043,00RF0,"Replacement of Olfactory Nerve with Nonautologous Tissue Substitute, Open Approach
+Replacement of Olfactory Nerve with Autologous Tissue Substitute, Open Approach
+Replacement of Olfactory Nerve with Synthetic Substitute, Open Approach",General Surgery,General,13
+2069,00HU0,"Insertion of Monitoring Device into Spinal Canal, Open Approach
+Insertion of Infusion Device into Spinal Canal, Open Approach
+Insertion of Neurostimulator Lead into Spinal Canal, Open Approach
+Insertion of Other Device into Spinal Canal, Open Approach
+Insertion of Radioactive Element into Spinal Canal, Open Approach",Brain Surgery,Neurological,2
+2112,00HE0,"Insertion of Radioactive Element into Cranial Nerve, Open Approach
+Insertion of Monitoring Device into Cranial Nerve, Open Approach
+Insertion of Neurostimulator Lead into Cranial Nerve, Open Approach
+Insertion of Other Device into Cranial Nerve, Open Approach
+Insertion of Infusion Device into Cranial Nerve, Open Approach",Brain Surgery,Neurological,2
+2116,00PE0,"Removal of Drainage Device from Cranial Nerve, Open Approach
+Removal of Monitoring Device from Cranial Nerve, Open Approach
+Removal of Infusion Device from Cranial Nerve, Open Approach
+Removal of Autologous Tissue Substitute from Cranial Nerve, Open Approach
+Removal of Neurostimulator Lead from Cranial Nerve, Open Approach",Brain Surgery,Neurological,2
+2134,009F0,"Drainage of Olfactory Nerve with Drainage Device, Open Approach
+Drainage of Olfactory Nerve, Open Approach, Diagnostic
+Drainage of Olfactory Nerve, Open Approach",General Surgery,General,13
+2138,031K0,"Bypass Right Internal Carotid Artery to Right Extracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Internal Carotid Artery to Left Extracranial Artery with Autologous Venous Tissue, Open Approach
+Bypass Right Internal Carotid Artery to Right Extracranial Artery with Autologous Arterial Tissue, Open Approach
+Bypass Right Internal Carotid Artery to Left Extracranial Artery with Autologous Arterial Tissue, Open Approach
+Bypass Right Internal Carotid Artery to Right Extracranial Artery with Synthetic Substitute, Open Approach",Valve Replacement,Cardiac,1
