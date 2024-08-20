@@ -12,8 +12,9 @@ This repository contains code and resources related to my research in the field 
 
 *please read the README.md file in each respective folder if running code locally!*
 
-### Medical Image Analysis
-The "medical-image-analysis" folder contains code and resources related to my work in medical image analysis. I used PyTorch for semantic segmentation tasks, exploring various techniques for analyzing medical images.
+## Medical Image Analysis
+
+### "medical-image-analysis" ---> contains code and resources related to my work in medical image analysis. I used PyTorch for semantic segmentation tasks, exploring various techniques for analyzing medical images.
 
 ## Usage
 Feel free to explore the code and resources in this repository. If you find anything useful or have any questions, please don't hesitate to reach out.
